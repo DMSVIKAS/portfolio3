@@ -80,17 +80,6 @@ Include high-quality screenshots in the repository (e.g. under `assets/screensho
 <img width="1920" height="1080" alt="s4" src="https://github.com/user-attachments/assets/696620d8-59d0-4a00-97d8-e2f6eade3d58" />
 <img width="1920" height="1080" alt="s3" src="https://github.com/user-attachments/assets/059fc617-ad2a-412d-b32d-a76e171c942e" />
 
-
-
-```markdown
-![Home view](assets/screenshots/home.png)
-![Mobile view](assets/screenshots/mobile.png)
-```
-
-This helps visitors and recruiters preview the site without opening it.
-
----
-
 ## Contributing
 
 This repository is primarily your personal portfolio. If you want to accept contributions:
