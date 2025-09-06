@@ -1,4 +1,4 @@
-# portfolio3
+# portfolio
 
 A clean, responsive personal portfolio website built with HTML, CSS and vanilla JavaScript. This repository contains the source code for my portfolio site. The site is designed to look sharp on desktop while staying usable on mobile — and horizontal scrolling has been disabled on mobile view as requested.
 
@@ -9,7 +9,7 @@ A clean, responsive personal portfolio website built with HTML, CSS and vanilla 
 Once GitHub Pages is enabled for this repository the site will be available at:
 
 ```
-https://<your-username>.github.io/<repository-name>
+https://dmsvikas.github.io/portfolio3/
 ```
 
 Example (after enabling Pages):
