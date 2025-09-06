@@ -74,7 +74,6 @@ If you prefer a branch-based workflow (separate `gh-pages` branch), you can use 
 
 ## Screenshots
 
-Include high-quality screenshots in the repository (e.g. under `assets/screenshots/`) and reference them in the README like:
 <img width="1920" height="1080" alt="s1" src="https://github.com/user-attachments/assets/bcde607f-c8cd-49ed-abf8-c0b4a1e28ac1" />
 <img width="1920" height="1080" alt="s2" src="https://github.com/user-attachments/assets/efde43b5-300a-422d-b3a4-5b24efeb405c" />
 <img width="1920" height="1080" alt="s4" src="https://github.com/user-attachments/assets/696620d8-59d0-4a00-97d8-e2f6eade3d58" />
@@ -117,4 +116,3 @@ If you want me to help finalize or deploy this repo (add screenshots, set up Git
 
 ---
 
-*Generated for: `portfolio3`*
