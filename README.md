@@ -12,15 +12,6 @@ Once GitHub Pages is enabled for this repository the site will be available at:
 https://dmsvikas.github.io/portfolio3/
 ```
 
-Example (after enabling Pages):
-
-```
-https://DMSVIKAS.github.io/portfolio3
-```
-
-> Note: If you haven’t enabled Pages yet, see the **Deploy** section below.
-
----
 
 ## Features
 
